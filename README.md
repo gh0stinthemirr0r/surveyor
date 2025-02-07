@@ -1,3 +1,5 @@
+![Surveyor Header](https://github.com/gh0stinthemirr0r/surveyor/blob/main/screenshots/header.png)
+
 # Surveyor
 
 **Surveyor** is a Python-based network scanning and diagnostics tool that uses Nmap for host discovery and port scanning, simulates traffic generation for connection quality measurements, and displays the results on a modern, scrollable dashboard built with Pygame. It also generates detailed reports in both PDF and CSV formats and exposes Prometheus metrics for monitoring.
