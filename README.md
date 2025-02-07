@@ -42,3 +42,9 @@
    ```bash
    git clone https://github.com/yourusername/surveyor.git
    cd surveyor
+
+
+![Surveyor Process 01](https://github.com/gh0stinthemirr0r/surveyor/blob/main/screenshots/screenshot01.png)
+![Surveyor Process 02](https://github.com/gh0stinthemirr0r/surveyor/blob/main/screenshots/screenshot02.png)
+![Surveyor Dashboard](https://github.com/gh0stinthemirr0r/surveyor/blob/main/screenshots/screenshot03.png)
+![Surveyor PDF Report](https://github.com/gh0stinthemirr0r/surveyor/blob/main/screenshots/screenshot04.png)
