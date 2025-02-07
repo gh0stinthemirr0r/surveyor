@@ -1,0 +1,13 @@
+2025-02-07 10:56:52,620 - INFO - Logger setup complete, logging to ghostshell\logging\surveyor_log_20250207_105652.log
+2025-02-07 10:57:14,491 - INFO - Scanning destination: 10.10.1.0/24
+2025-02-07 10:57:19,451 - INFO - Started Prometheus metrics server on port 8080
+2025-02-07 10:57:19,478 - INFO - Performing ping scan on 10.10.1.0/24
+2025-02-07 10:57:19,570 - INFO - Nmap scan of 10.10.1.0/24 found 0 up hosts
+2025-02-07 10:57:19,570 - INFO - Starting traffic generation for all scanned ranges.
+2025-02-07 10:57:19,666 - INFO - Traffic generation completed.
+2025-02-07 10:57:19,667 - INFO - Generating PDF report at ghostshell\reporting\surveyor_report_20250207_105719.pdf
+2025-02-07 10:57:20,240 - INFO - Generating CSV report at ghostshell\reporting\surveyor_report_20250207_105719.csv
+2025-02-07 10:57:20,240 - INFO - Reports generated: PDF (ghostshell\reporting\surveyor_report_20250207_105719.pdf), CSV (ghostshell\reporting\surveyor_report_20250207_105719.csv)
+2025-02-07 10:57:20,240 - INFO - Surveying completed. Awaiting shutdown signal...
+2025-02-07 10:57:37,650 - INFO - Received shutdown signal: 2
+2025-02-07 10:57:38,247 - INFO - Exiting Surveyor cleanly.
